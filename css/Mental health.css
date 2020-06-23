@@ -1,0 +1,890 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    padding: 18px;
+    padding-left: 0px;
+    background-color: rgb(100, 100, 100);
+}
+#but{
+    background-color: rgba(139, 134, 134, 0.815);
+    text-decoration: none;
+    color: white;
+    border: none;
+    padding: 7px;
+    border-radius: 20px;
+    width: 100px;
+
+}
+#but1{
+    background-color: rgba(139, 134, 134, 0.815);
+    color: white;
+    padding: 7px;
+    border-radius: 20px;
+    width: 100px;
+    border: 2px solid rgb(199, 197, 197)
+}
+#but2 {
+    background-color: white;
+    color: tomato;
+    padding: 7px;
+    border-radius: 20px;
+    border: none;
+    margin-left: 150px;
+    margin-right: 70px;
+}
+.container1{
+    background-color: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 25px;
+    padding-left: 150px;
+    padding-right: 50px;
+    font-size: 80%;
+}
+#marion{
+    padding-right: none;
+}
+#home{
+    padding-left: none;
+}
+#col{
+    color: rgba(139, 134, 134, 0.815);
+}
+#sun{
+    color: rgba(139, 134, 134, 0.815);
+}
+#nos{
+    color: tomato
+}
+.container2{
+color: White;
+Font-size: 200%;
+background-image: url("../bush.jpg");
+height: 500px;
+}
+#smart{
+    font-size: 50px;
+    padding-top: 15%;
+    padding-left: 230px;
+    }
+#help{
+    font-size: 40px;
+    padding-left: 230px;
+}
+#jane{
+    font-size: 10px;
+    padding-left: 230px;
+
+}
+#man{
+    padding-top: 100px;
+    padding-left: 250px;
+    display: flex;
+    width: 350px;
+    height: 350px;
+}
+
+.container3{
+    background-color: rgba(233, 229, 229, 0.911);
+    padding: 70px;
+}
+
+#den{
+    padding-left: 700px;
+    color: rgba(139, 134, 134, 0.815);
+    font-size: 14px;
+}
+#wel{
+    padding-left: 700px;
+}
+#psy{
+    padding-left: 700px;
+    font-size: 12px;
+    color:  rgba(139, 134, 134, 0.815);
+}
+#ma{
+    padding-left: 700px;
+}
+#read{
+margin-left: 700px;
+color: white;
+background-color:rgba(139, 134, 134, 0.815);
+border-radius: 20px;
+width: 150px;
+padding: 7px;
+border: none;
+}
+#view{
+    background-color: tomato;
+    color: white;
+    border-radius: 20px;
+    width: 150px;
+    border: none;
+    padding: 7px;
+}
+.backgroundone{
+    display: flex;
+    background-image: url("../people.jpg");
+    background-size: cover;
+    background-repeat: no-repeat, repeat;
+    width: 100%;  
+}  
+.container4{
+    
+    display: inline block; 
+    padding-left:15%;
+    padding-top: 8%;
+}
+.container5{
+    padding-bottom: 30%;
+}
+
+.style{
+    display: flex;
+    padding-right:10%;
+    color: tomato;
+}
+#small{
+    display: flex;
+    font-size: 50%;
+    color: rgba(139, 134, 134, 0.815);
+    margin-left: 10%; 
+}
+.opa{
+    
+    color: white;
+    margin-left: 15%;
+    margin-right: 20%;
+    margin-top: 5%;
+    padding-bottom: 30px;
+    background-color: rgb(65, 63, 63);
+    opacity: 0.9;
+    width: 60%;
+    height: 50%;
+}
+.yrs{
+    display: flex;
+}
+.yr{
+
+    padding-left: 60%;
+    font-size: 300%;
+}
+.yr1{
+    padding-left: 170%;
+    font-size: 300%;
+}
+.yr2{
+    padding-left: 150%;
+    font-size: 300%;
+}
+.pra{
+    display: flex;
+    font-size: 80%;
+    margin-left: 12%;
+}
+.treat{
+    text-align: center;
+    font-size: 110%;
+    margin-top: 40px;
+    
+}
+.environment{
+    background-image: url("../tree.jpg");
+    background-size: cover;
+    width: 100%;
+}
+.fea{
+    padding-left: 3%;
+    padding-top: 7%;
+}
+.boxholder{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 5%;
+}
+.box1{
+    background-color: white;
+    width: 350px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin: 20px;
+    text-align: center;
+}
+.box2{
+    background-color: white;
+    width: 350px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin: 20px;
+    text-align: center;
+}
+.box3{
+    background-color: white;
+    width: 350px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin: 20px;
+    text-align: center;
+}
+#mar{
+    color: rgba(139, 134, 134, 0.815);
+}
+#ins{
+    padding: 20px;
+}
+#ring{
+    width: 100%;
+    padding-bottom: 20px;
+}
+#readart{
+    background-color: tomato;
+    color: white;
+    border-radius: 20px;
+    width: 150px;
+    border: none;
+    padding: 7px;
+}
+#mar2{
+    color: rgba(139, 134, 134, 0.815);
+}
+#marry{
+    padding: 20px;
+}
+#family{
+    width: 100%;
+    padding-bottom: 20px;
+}
+#readart2{
+    background-color: tomato;
+    color: white;
+    border-radius: 20px;
+    width: 150px;
+    border: none;
+    padding: 7px; 
+}
+#mar3{
+    color: rgba(139, 134, 134, 0.815);
+}
+#teen{
+    padding: 20px;
+}
+#lady{
+    width: 100%;
+    padding-bottom: 20px;  
+}
+#readart3{
+    background-color: tomato;
+    color: white;
+    border-radius: 20px;
+    width: 150px;
+    border: none;
+    padding: 7px;
+}
+.happywoman{
+    background-image: url("../happy woman.jpg");
+    background-size: cover;
+    width: 100%;
+}
+.test{
+    color: white;
+    display: flex;
+    padding-left: 14%;
+    padding-top: 6%;
+}
+.dennis{
+    padding-left: 14%;
+    color:  rgba(170, 167, 167, 0.815);
+    font-size: 110%;
+    padding-top: 1%;
+}
+.sa{
+    padding-top: 1%;
+    padding-left: 14%;
+    color: white;
+}
+#hwf{
+    font-size: 80%;
+}
+.moretest{
+    padding-left: 14%;
+    padding-top: 2%;
+    padding-bottom: 5%;
+}
+#mtest{
+    background-color: tomato;
+    color: white;
+    border-radius: 20px;
+    width: 150px;
+    border: none;
+    padding: 7px;
+}
+.newsdiv{
+    padding: 8%;
+    display: flex;
+    
+}
+.keep{
+    padding-left: 5%;
+    color: rgba(114, 108, 108, 0.815) ;
+    font-size: 80%;
+}
+.placeholder{
+    padding-left: 1%;
+    display: flex;
+}
+#email{
+    border: none;
+	border-radius: 30px;
+	padding: 15px;
+    width: 400px;
+    background-color: rgba(230, 225, 225, 0.918);
+    color: rgba(114, 108, 108, 0.815);
+    font-size: 80%;
+    margin-left: 15%;
+}
+.submit{
+    background-color: tomato;
+    color: white;
+    border-radius: 20px;
+    position: relative;
+    top: 10%;
+    left:-110%;
+    width: 100px;
+    border: none;
+    padding: 10px;
+}
+#map{
+    width: 100%;
+}
+.menthealth{
+    background-color: rgba(255, 255, 255, 0.925);
+    padding: 7%;
+    display: flex;
+}
+.mentnote{
+    color: rgba(114, 108, 108, 0.815);
+    font-size: 60%;
+    padding-top: 2%;
+    text-align: justify;
+}
+.links
+    a:link, a:visited{
+    padding-left: 170%;
+    color: tomato;
+    text-decoration: none;
+}
+.links2
+    a:link, a:visited{
+    padding-left: 220%;
+    color: tomato;
+    text-decoration: none;   
+}
+.adnos{
+    padding-left: 33%;
+    margin-top: 1%;
+}
+.num
+a:link, a:visited{
+    text-decoration: none;
+    color: tomato;
+    padding-left: 4%;
+}
+#marion2{
+    font-size: 90%;
+}
+#col2{
+    font-size: 70%;
+    padding-left: 15%;
+    color:rgba(139, 134, 134, 0.815) ;
+}
+#mon2{
+    font-size: 90%;
+}
+#sun2{
+    font-size: 70%;
+    padding-left: 15%;
+    color:rgba(139, 134, 134, 0.815) ;
+}
+.lastdiv{
+    padding: 2%;
+    background-color: rgb(102, 100, 100);
+    color: white;
+}
+/* End of ordinary style coding */
+
+
+/* Responsiveness starts here */
+@media all and (max-width: 1195px) {
+    /* For mobile phones: */
+    nav {
+    display: inline-block;
+    padding: 1%;
+    padding-left: 0%;
+    background-color: rgb(100, 100, 100);
+}
+#but{
+    background-color: rgba(139, 134, 134, 0.815);
+    text-decoration: none;
+    color: white;
+    border: none;
+    padding: 3px;
+    border-radius: 20px;
+    width:100px;
+
+}
+#but1{
+    background-color: rgba(139, 134, 134, 0.815);
+    color: white;
+    border-radius: 20px;
+    width: 100px;
+    padding: 3px;
+    border: 2px solid rgb(199, 197, 197)
+}
+#but2 {
+    background-color: white;
+    color: tomato;
+    border-radius: 20px;
+    border: none;
+    margin-left: 0%;
+    }
+}
+@media all and (max-width: 940px) {
+    /* For mobile phones: */
+      .container1{
+        background-color: none;
+        display: block;
+        justify-content: space-around;
+        font-size: 80%;
+        padding: 25px;
+    }
+    .img-1{
+        width: 150px;
+        display: block;
+        
+    }
+    
+    #marion{
+        padding-right: none;
+    }
+    #home{
+        padding-left: none;
+    }
+    #col{
+        color: rgba(139, 134, 134, 0.815);
+    }
+    #sun{
+        color: rgba(139, 134, 134, 0.815);
+    }
+    #nos{
+        color: tomato;
+    }
+}
+@media all and (max-width: 940px) {
+    /* For mobile phones: */
+    .container2{
+        color: White;
+        Font-size: 200%;
+        background-image: url("../bush.jpg");
+        background-size: cover;
+        background-repeat: repeat repeat-y;
+        display: block;
+        text-align: justify;
+        }
+        #smart{
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 20%;
+            display: block;
+            }
+        #help{
+            font-size: 20px;
+            padding-left: 20%;
+        }
+        #jane{
+            font-size: 10px;
+            padding-left: 20%;
+            display: block;
+        
+        }
+        #man{
+            padding-top: 2%;
+            padding-left: 19%;
+            width: 30%;
+            height: 30%;
+        }
+    }
+    @media all and (max-width: 1194px) {
+        /* For mobile phones: */
+    .container3{
+        background-color: rgba(233, 229, 229, 0.911);
+        display: inline-block;
+    }
+    
+    #den{
+        padding-top: 0%;
+        padding-left: 0px;
+        color: rgba(139, 134, 134, 0.815);
+        font-size: 10px;
+    }
+    #wel{
+        padding-left: 0px;
+    }
+    #psy{
+        padding-left: 0px;
+        font-size: 10px;
+        color:  rgba(139, 134, 134, 0.815);
+    }
+    #ma{
+        padding-left: 0px;
+    }
+    #read{
+    margin-left: 0px;
+    color: white;
+    background-color:rgba(139, 134, 134, 0.815);
+    border-radius: 20px;
+    width: 150px;
+    padding: 7px;
+    border: none;
+    }
+    #view{
+        background-color: tomato;
+        color: white;
+        border-radius: 20px;
+        width: 150px;
+        border: none;
+        padding: 7px;
+        margin-top: 2%;
+    }
+    }
+    @media all and (max-width: 1194px) {
+        /* For mobile phones: */
+    .backgroundone{
+        display: block;
+        background-image: url("../people.jpg");
+        background-size: cover;
+        background-repeat: repeat repeat-y;}  
+    .container4{
+        
+        display: inline block; 
+        padding-left: 0%;
+        padding-top: 15%;
+        text-align: center;
+    }
+    .container5{
+        padding-bottom: 0%;
+    }
+    
+    .style{
+        display: block;
+        padding-right:10%;
+        color: tomato;
+    }
+    #small{
+        display: block;
+        font-size: 50%;
+        color: rgba(139, 134, 134, 0.815);
+        margin-left: 10%; 
+    }
+    @media all and (max-width: 1194px) {
+        /* For mobile phones: */
+    .opa{
+        
+        color: white;
+        margin-left: 0%;
+        margin-right: 0%;
+        margin-top: 5%;
+        padding-bottom: 30px;
+        background-color: rgb(65, 63, 63);
+        opacity: 0.9;
+        width: 100%;
+        height: 90%;
+        text-align: center;
+    }
+}
+    .yrs{
+        display: flex;
+    }
+    .yr{
+    
+        padding-left:100%;
+        font-size: 300%;
+    }
+    .yr1{
+        padding-left: 150%;
+        font-size: 300%;
+    }
+    .yr2{
+        padding-left: 150%;
+        font-size: 300%;
+    }
+    .pra{
+        display: flex;
+        font-size: 80%;
+        margin-left: 12%;
+    }
+    .treat{
+        text-align: center;
+        font-size: 110%;
+        margin-top: 40px;
+        
+    }
+}
+
+@media all and (max-width: 500px) {
+    /* For mobile phones: */
+    .environment{
+        background-image: url("../tree.jpg");
+        background-size: cover;
+        display: block;
+        background-repeat: repeat-y;
+    }
+    .fea{
+        padding-left: 3%;
+        padding-top: 7%;
+    }
+    .boxholder{
+        display: block;
+        justify-content: space-around;
+        padding-bottom: 5%;
+        padding-left: 10%;
+    }
+    .box1{
+        background-color: white;
+        width: 250px;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        margin: 20px;
+        text-align: center;
+    }
+    .box2{
+        background-color: white;
+        width: 250px;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        margin: 20px;
+        text-align: center;
+    }
+    .box3{
+        background-color: white;
+        width: 250px;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        margin: 20px;
+        text-align: center;
+    }
+    #mar{
+        color: rgba(139, 134, 134, 0.815);
+    }
+    #ins{
+        padding: 20px;
+    }
+    #ring{
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    #readart{
+        background-color: tomato;
+        color: white;
+        border-radius: 20px;
+        width: 150px;
+        border: none;
+        padding: 7px;
+    }
+    #mar2{
+        color: rgba(139, 134, 134, 0.815);
+    }
+    #marry{
+        padding: 20px;
+    }
+    #family{
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    #readart2{
+        background-color: tomato;
+        color: white;
+        border-radius: 20px;
+        width: 150px;
+        border: none;
+        padding: 7px; 
+    }
+    #mar3{
+        color: rgba(139, 134, 134, 0.815);
+    }
+    #teen{
+        padding: 20px;
+    }
+    #lady{
+        width: 100%;
+        padding-bottom: 20px;  
+    }
+    #readart3{
+        background-color: tomato;
+        color: white;
+        border-radius: 20px;
+        width: 150px;
+        border: none;
+        padding: 7px;
+}
+}
+@media all and (max-width: 500px) {
+    /* For mobile phones: */
+
+    .happywoman{
+        background-image: url("../happy woman.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        display: block;
+        width: 100%;
+        
+    }
+    .test{
+        color: white;
+        display: block;
+        padding-left: 14%;
+        padding-top: 6%;
+    }
+    .dennis{
+        padding-left: 14%;
+        color:  rgba(170, 167, 167, 0.815);
+        font-size: 110%;
+        padding-top: 1%;
+    }
+    .sa{
+        padding-top: 1%;
+        padding-left: 14%;
+        color: white;
+    }
+    #hwf{
+        font-size: 80%;
+    }
+    .moretest{
+        padding-left: 14%;
+        padding-top: 2%;
+        padding-bottom: 5%;
+    }
+    #mtest{
+        background-color: tomato;
+        color: white;
+        border-radius: 20px;
+        width: 150px;
+        border: none;
+        padding: 7px;
+    }
+}
+@media all and (max-width: 1100px) {
+    /* For mobile phones: */
+    .newsdiv{
+        padding: 10%;
+        display: block;
+        
+        
+    }
+    .keep{
+        padding-left: 5%;
+        padding-top: 5%;
+        color: rgba(114, 108, 108, 0.815) ;
+        font-size: 80%;
+        display: block;
+    }
+    .placeholder{
+        padding-left: 1%;
+        display: flex;
+        padding-top: 5%;
+    }
+    #email{
+        border: none;
+        border-radius: 30px;
+        padding: 1px;
+        width: 100px;
+        background-color: rgba(230, 225, 225, 0.918);
+        color: rgba(114, 108, 108, 0.815);
+        font-size: 80%;
+        margin-left: 1%;
+        display: block;
+    }
+    .submit{
+        background-color: tomato;
+        color: white;
+        border-radius: 20px;
+        width: 90px;
+        border: none;
+        padding: 10px;
+    }
+}
+@media all and (max-width: 1225px) {
+    /* For mobile phones: */
+    .menthealth{
+        background-color: rgba(233, 229, 229, 0.911);
+        padding: 0%;
+        width: 100%;
+        display: block;
+        text-align: center;
+        
+    }
+    .mentnote{
+        color: rgba(114, 108, 108, 0.815);
+        font-size: 60%;
+        padding-top: 2%;
+        text-align: center;
+        
+        
+    }
+    .links
+        a:link, a:visited{
+        padding-left: 0%;
+        color: tomato;
+        text-decoration: none;
+        text-align: center;
+     
+    }
+    .links2
+        a:link, a:visited{
+        padding-left: 0%;
+        color: tomato;
+        text-decoration: none; 
+        display: grid;
+    }
+    .adnos{
+        padding-left: 3%;
+        margin-top: 1%;
+    }
+    .num
+    a:link, a:visited{
+        text-decoration: none;
+        color: tomato;
+        padding-left: 4%;
+
+    }
+    #marion2{
+        font-size: 90%;
+    }
+    #col2{
+        font-size: 70%;
+        padding-left: 15%;
+        color:rgba(139, 134, 134, 0.815) ;
+    }
+    #mon2{
+        font-size: 90%;
+    }
+    #sun2{
+        font-size: 70%;
+        padding-left: 15%;
+        color:rgba(139, 134, 134, 0.815) ;
+    }
+}
+@media all and (max-width: 500px) {
+    /* For mobile phones: */
+.lastdiv{
+    padding: 2%;
+    background-color: rgb(102, 100, 100);
+    color: white;
+    text-align: center;
+}
